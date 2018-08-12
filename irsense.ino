@@ -23,6 +23,8 @@ void loop() {
     front();
     delay(a_delay);
     back();
+    delay(a_delay);
+    stop();
     
   }
 void front() {
